@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @ArdaKurucim
-- 👀 I’m interested in almost everything
-- 🌱 I’m currently learning to speak english
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me : you can't
-
-<!---
-ArdaKurucim/ArdaKurucim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000403.7bf024b451744bb9a4ac0503fdc43f20.1942)](https://github.com/rayriffy/apple-music-github-profile)
